@@ -7,8 +7,6 @@ node_modules/
 npm-debug.log*
 
 # Env files
-.env
-.env.*
 !.env.example
 
 # Stellar / Soroban
@@ -25,3 +23,4 @@ Thumbs.db
 # Playwright
 **/playwright-report-visual/
 **/test-results/
+config.bat
